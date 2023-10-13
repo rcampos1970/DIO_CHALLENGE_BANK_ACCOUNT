@@ -1,23 +1,23 @@
-# ContaTerminal Java Program
+# Bank Account Java Program
 
-This is a simple Java program called "ContaTerminal" that allows you to input account information, including agency number, client name, balance, and agency name, and then displays a welcome message with the provided information.
+This is a simple Java program called "Bank Account" that allows you to input account information, including agency number, client name, balance, and agency name, and then displays a welcome message with the provided information.
 
 ## Usage
 
 1. Make sure you have Java installed on your system.
 
-2. Download the `ContaTerminal.java` file to your local machine.
+2. Download the `Bank_Account.java` file to your local machine.
 
 3. Compile the Java file using the following command in your terminal or command prompt:
 
    ```shell
-   javac ContaTerminal.java
+   javac Bank_Account.java
    ```
 
 4. Run the program using the following command:
 
    ```shell
-   java ContaTerminal
+   java Bank_Account
    ```
 
 5. Follow the on-screen prompts to enter the account information as requested.
@@ -55,5 +55,5 @@ Olá John Doe, obrigado por criar uma conta em nosso banco, sua agência é Main
 Feel free to contribute, report issues, or provide feedback on this program.
 ```
 
-You should replace `"ContaTerminal.java"` with the actual file name if it's different and update the author information as needed.
+You should replace `"Bank_Account.java"` with the actual file name if it's different and update the author information as needed.
 
